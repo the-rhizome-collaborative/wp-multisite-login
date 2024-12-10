@@ -8,7 +8,7 @@
  * Author URI:          rhizomecollaborative.com
  * Text Domain:         wp-multisite-login
  * Domain Path:         /languages
- * Version:             0.0.01
+ * Version:             0.0.02
  *
  * @package         WP_Multisite_Content_Sharing
  */
